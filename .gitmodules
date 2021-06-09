@@ -1,0 +1,4 @@
+[submodule "kmee/l10n-brazil"]
+	path = kmee/l10n-brazil
+	url = git@github.com:kmee/l10n-brazil.git
+	branch = 12.0
