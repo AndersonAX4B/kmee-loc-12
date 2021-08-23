@@ -1,4 +1,4 @@
-[submodule "kmee/l10n-brazil"]
-	path = kmee/l10n-brazil
-	url = git@github.com:kmee/l10n-brazil.git
-	branch = 12.0
+[submodule "poc-cptm_test"]
+	path = teste_anderson
+	url = git@github.com:focvs-erp/focvs-erp-poc-cptm-2.git
+	branch = cptm_h
