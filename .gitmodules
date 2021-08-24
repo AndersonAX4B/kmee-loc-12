@@ -1,4 +1,0 @@
-[submodule "poc-cptm_test"]
-	path = teste_anderson            
-	url = git@github.com:focvs-erp/focvs-erp-poc-cptm-2.git
-	branch = cptm_h 
