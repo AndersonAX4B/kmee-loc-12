@@ -3,7 +3,3 @@
 	url = git@github.com:AndersonAX4B/focvs-erp-poc-cptm-2.git
 	branch = cptm_p
 
-[submodule "aprendendo_git"]
-	path = aprendendo_git
-	url = git@github.com:AndersonAX4B/focvs-erp-poc-sao-vicente.git
-	branch = main
