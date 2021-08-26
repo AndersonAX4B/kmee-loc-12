@@ -1,8 +1,3 @@
-[submodule "AndersonAX4B/focvs-erp-poc-cptm-2"]
-	path = AndersonAX4B/focvs-erp-poc-cptm-2
-	url = git@github.com:AndersonAX4B/focvs-erp-poc-cptm-2.git
-	branch = cptm_p
-
 [submodule "sao_vicente"]
 	path = prefeitura
 	url = git@github.com:AndersonAX4B/focvs-erp-poc-sao-vicente.git
