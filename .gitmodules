@@ -1,0 +1,4 @@
+[submodule "AndersonAX4B/focvs-erp-poc-cptm-2"]
+	path = AndersonAX4B/focvs-erp-poc-cptm-2
+	url = git@github.com:AndersonAX4B/focvs-erp-poc-cptm-2.git
+	branch = cptm_p
