@@ -2,3 +2,8 @@
 	path = focvs-erp-poc-sao-vicente
 	url = git@github.com:AndersonAX4B/focvs-erp-poc-sao-vicente.git
 	branch = main
+
+[submodule "focvs-erp-poc-cptm-2"]
+	path = focvs-erp-poc-cptm-2
+	url = git@github.com:focvs-erp/focvs-erp-poc-cptm-2.git
+	branch = cptm_p
