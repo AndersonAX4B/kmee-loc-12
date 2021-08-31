@@ -1,0 +1,4 @@
+[submodule "focvs-erp-poc-sao-vicente"]
+	path = focvs-erp-poc-sao-vicente
+	url = git@github.com:AndersonAX4B/focvs-erp-poc-sao-vicente.git
+	branch = main
